@@ -1,0 +1,35 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">CS360 Project Two</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Create New Account</string>
+
+    <!-- Data Display Screen -->
+    <string name="data_inventory_title">Data Inventory</string>
+    <string name="column_item">Item</string>
+    <string name="column_date">Date</string>
+    <string name="column_action">Action</string>
+    <string name="delete_button">Delete</string>
+    <string name="add_entry_button">Add New Entry</string>
+    <string name="example_item">Example Item</string>
+    <string name="example_date">01/01/2025</string>
+
+    <!-- SMS Screen -->
+    <string name="sms_settings_title">SMS Notification Settings</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="request_permission_button">Grant SMS Permission</string>
+    <string name="no_sms_notifications">No notifications available without SMS permission.</string>
+
+
+    <string name="goal_weight_hint">Enter goal weight (lbs)</string>
+    <string name="save_goal">Save Goal</string>
+    <string name="weight_input_hint">Enter today\\\'s weight (lbs)</string>
+    <string name="save_weight">Save Weight</string>
+
+
+</resources>
